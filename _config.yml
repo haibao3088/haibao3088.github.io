@@ -9,7 +9,7 @@ kramdown:
 
 paginate: 10
 paginate_path: ":num"
-baseurl: "haibao3088.github.io"
+baseurl: ""
 
 
 
