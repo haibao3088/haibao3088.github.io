@@ -9,7 +9,7 @@ kramdown:
 
 paginate: 10
 paginate_path: ":num"
-baseurl: ""
+baseurl: "haibao3088.github.io"
 
 
 
@@ -27,7 +27,7 @@ defaults:
 
 title: "My Blog"
 email: "haibao3088@gmail.com"
-description: "ÎÒµÄ²©¿Í"
+description: "haha"
 github_username:  "haibao3088"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
 disqus_shortname: "rainyalley"
