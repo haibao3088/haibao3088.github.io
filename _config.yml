@@ -27,7 +27,7 @@ defaults:
 
 title: "My Blog"
 email: "haibao3088@gmail.com"
-description: "haha"
+description: "Welcome"
 github_username:  "haibao3088"
 swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
 disqus_shortname: "My Blog"
@@ -35,7 +35,7 @@ disqus_shortname: "My Blog"
 
 
 
-url: "haibao3088.github.io"
+url: ""
 imgrepo: "haibao3088.github.io/static/img"
 
 
